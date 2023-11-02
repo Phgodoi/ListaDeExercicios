@@ -8,7 +8,7 @@ double somaProd = 0;
 
 while (exibirMenu)
 {
-    Console.WriteLine("\n Selecione uma opçao: ");
+    Console.WriteLine("\nSelecione uma opçao: ");
     Console.WriteLine("1 - Cadastrar produdo");
     Console.WriteLine("2 - Ver itens cadastrados");
     Console.WriteLine("3 - Somar");

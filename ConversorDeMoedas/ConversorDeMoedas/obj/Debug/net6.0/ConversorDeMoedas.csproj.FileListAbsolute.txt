@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.exe
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.deps.json
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.runtimeconfig.json
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.dll
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.pdb
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.dll
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\refint\ConversorDeMoedas.dll
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.pdb
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ref\ConversorDeMoedas.dll
