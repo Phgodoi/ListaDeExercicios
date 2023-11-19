@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\bin\Debug\net6.0\ComissaoVendedores.exe
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\bin\Debug\net6.0\ComissaoVendedores.deps.json
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\bin\Debug\net6.0\ComissaoVendedores.runtimeconfig.json
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\bin\Debug\net6.0\ComissaoVendedores.dll
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\bin\Debug\net6.0\ComissaoVendedores.pdb
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\ComissaoVendedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\ComissaoVendedores.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\ComissaoVendedores.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\ComissaoVendedores.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\ComissaoVendedores.dll
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\refint\ComissaoVendedores.dll
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\ComissaoVendedores.pdb
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\ComissaoVendedores.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Estudos\Dio Estudos\Formação .NET Developer C#\ListaDeExercicios\ComissaoVendedores.Moldels\ComissaoVendedores\obj\Debug\net6.0\ref\ComissaoVendedores.dll
